@@ -1,6 +1,7 @@
 public class Student{
 public static void main(String args[])
 {
-System.out.println("Hello world");
+  String message;
+System.out.println(message);
 }
 }
